@@ -1,2 +1,3 @@
 # Demo
-This is for demonstration 
+This is for demonstration repository.
+Author-Prashant Gavandar
