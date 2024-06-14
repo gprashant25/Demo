@@ -1,4 +1,4 @@
 # Demo
 This is for demonstration repository.
 <br>
-Author-Prashant Gavandar
+Author-Prashant Gavandar (Demo)
